@@ -1,0 +1,3 @@
+/cygdrive/d/Study/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir
+/cygdrive/d/Study/C_Study/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Study/C_Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
