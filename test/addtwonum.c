@@ -1,0 +1,14 @@
+/*
+ @author: lindand  
+ @date: 2024-01-29
+ @description:
+*/
+#include <stdio.h>
+
+/*外部变量声明*/
+extern int x;
+extern int y;
+
+int addtwonum() {
+    return x + y;
+}
