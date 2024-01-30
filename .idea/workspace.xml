@@ -21,33 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/addtwonum.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/addtwonum_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/variate.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/constants.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DateType.c" beforeDir="false" afterPath="$PROJECT_DIR$/test/DateType.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DateType.exe" beforeDir="false" afterPath="$PROJECT_DIR$/test/DateType.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-89f36137cbc20cd3e6d8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-356a8203bd12e7f3965e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-76bee2527540d9f74af8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-16T15-58-01-0203.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-C_Study-Debug-1d743353f1c9fe56a6c7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-eee4bb30c04549755378.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/DateType.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/test/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.DateType.c.executor": "Run",
+    "C/C++ File.constants.c.executor": "Run",
     "C/C++ File.main.c (1).executor": "Run",
     "C/C++ File.main.c.executor": "Run",
     "C/C++ File.variate.c.executor": "Run",
@@ -108,14 +84,14 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.variate_test.c (1)">
+  <component name="RunManager" selected="C/C++ File.constants.c">
     <configuration name="C_Study" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="C_Study" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Study" RUN_TARGET_NAME="C_Study">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateType.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="DateType.c" CONFIG_NAME="DateType.c">
-      <option name="sourceFile" value="DateType.c" />
+    <configuration name="constants.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="constants.c" CONFIG_NAME="constants.c">
+      <option name="sourceFile" value="test\constants.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -145,20 +121,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.constants.c" />
       <item itemvalue="C/C++ File.main.c (1)" />
       <item itemvalue="C/C++ File.variate_test.c (1)" />
       <item itemvalue="C/C++ File.variate.c" />
       <item itemvalue="C/C++ File.variate_test.c" />
-      <item itemvalue="C/C++ File.DateType.c" />
       <item itemvalue="CMake Application.C_Study" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.constants.c" />
         <item itemvalue="C/C++ File.variate_test.c (1)" />
         <item itemvalue="C/C++ File.main.c (1)" />
         <item itemvalue="C/C++ File.variate_test.c" />
         <item itemvalue="C/C++ File.variate.c" />
-        <item itemvalue="C/C++ File.DateType.c" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +149,7 @@
       <workItem from="1705420680690" duration="785000" />
       <workItem from="1705421476872" duration="1943000" />
       <workItem from="1706532541630" duration="2746000" />
-      <workItem from="1706538851794" duration="841000" />
+      <workItem from="1706538851794" duration="5035000" />
     </task>
     <servers />
   </component>
