@@ -21,7 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise/Operation .c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/circulation.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.DateType.c.executor": "Run",
+    "C/C++ File.Operation .c.executor": "Run",
     "C/C++ File.Operator.c.executor": "Run",
     "C/C++ File.assessment.c.executor": "Run",
     "C/C++ File.constants.c.executor": "Run",
@@ -154,7 +155,7 @@
       <workItem from="1705421476872" duration="1943000" />
       <workItem from="1706532541630" duration="2746000" />
       <workItem from="1706538851794" duration="9844000" />
-      <workItem from="1706774149793" duration="15679000" />
+      <workItem from="1706774149793" duration="16190000" />
     </task>
     <servers />
   </component>
