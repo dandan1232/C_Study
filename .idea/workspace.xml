@@ -20,10 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/Operator.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +84,7 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Operator.c">
+  <component name="RunManager" selected="C/C++ File.assessment.c">
     <configuration name="C_Study" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="C_Study" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Study" RUN_TARGET_NAME="C_Study">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -95,6 +92,12 @@
     </configuration>
     <configuration name="Operator.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="Operator.c" CONFIG_NAME="Operator.c">
       <option name="sourceFile" value="test\Operator.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assessment.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="assessment.c" CONFIG_NAME="assessment.c">
+      <option name="sourceFile" value="test\assessment.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -117,27 +120,21 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="variate_test.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="variate_test.c" CONFIG_NAME="variate_test.c">
-      <option name="sourceFile" value="test\addtwonum_test.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="C/C++ File.Operator.c" />
+      <item itemvalue="C/C++ File.assessment.c" />
       <item itemvalue="C/C++ File.extern_scmain.c" />
       <item itemvalue="C/C++ File.storage_class.c" />
       <item itemvalue="C/C++ File.constants.c" />
-      <item itemvalue="C/C++ File.variate_test.c (1)" />
       <item itemvalue="CMake Application.C_Study" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.assessment.c" />
         <item itemvalue="C/C++ File.Operator.c" />
         <item itemvalue="C/C++ File.extern_scmain.c" />
         <item itemvalue="C/C++ File.storage_class.c" />
         <item itemvalue="C/C++ File.constants.c" />
-        <item itemvalue="C/C++ File.variate_test.c (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +150,7 @@
       <workItem from="1705421476872" duration="1943000" />
       <workItem from="1706532541630" duration="2746000" />
       <workItem from="1706538851794" duration="9844000" />
-      <workItem from="1706774149793" duration="14825000" />
+      <workItem from="1706774149793" duration="15201000" />
     </task>
     <servers />
   </component>
