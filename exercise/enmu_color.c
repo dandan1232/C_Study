@@ -18,6 +18,7 @@ int main() {
 
     switch (favorite_color) {
         case red:
+//            printf("%d\n",red); //1
             printf("红色");
             break;
         case green:
