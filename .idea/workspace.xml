@@ -21,8 +21,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/array.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/array_name.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parameter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/parameter.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +73,7 @@
     "C/C++ File.variate_test.c.executor": "Run",
     "C/C++ 文件.DateType.c.executor": "Run",
     "C/C++ 文件.main.c.executor": "Run",
+    "CMake Debug.C_Study.executor": "Debug",
     "CMake 应用程序.C_Study.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -92,21 +96,18 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.array.c">
+  <component name="RunManager" selected="C/C++ File.parameter.c">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C_Study" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
+      <method v="2" />
+    </configuration>
     <configuration name="C_Study" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="C_Study" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Study" RUN_TARGET_NAME="C_Study">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Operation .c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="Operation .c" CONFIG_NAME="Operation .c">
-      <option name="sourceFile" value="exercise\Operation .c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="array.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="array.c" CONFIG_NAME="array.c">
@@ -137,17 +138,17 @@
       <item itemvalue="C/C++ File.array.c" />
       <item itemvalue="C/C++ File.parameter.c" />
       <item itemvalue="C/C++ File.function_main.c" />
-      <item itemvalue="C/C++ File.Operation .c" />
       <item itemvalue="C/C++ File.circulation.c" />
       <item itemvalue="CMake Application.C_Study" />
+      <item itemvalue="CMake Debug.C_Study" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.array.c" />
         <item itemvalue="C/C++ File.parameter.c" />
+        <item itemvalue="CMake Debug.C_Study" />
+        <item itemvalue="C/C++ File.array.c" />
         <item itemvalue="C/C++ File.function_main.c" />
         <item itemvalue="C/C++ File.circulation.c" />
-        <item itemvalue="C/C++ File.Operation .c" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,7 @@
       <workItem from="1706532541630" duration="2746000" />
       <workItem from="1706538851794" duration="9844000" />
       <workItem from="1706774149793" duration="16190000" />
-      <workItem from="1707200251901" duration="3400000" />
+      <workItem from="1707200251901" duration="4656000" />
     </task>
     <servers />
   </component>
