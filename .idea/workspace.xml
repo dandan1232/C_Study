@@ -21,11 +21,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/array_name.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/enmu_color.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/enum.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parameter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/parameter.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +58,11 @@
     "C/C++ File.Operation .c.executor": "Run",
     "C/C++ File.Operator.c.executor": "Run",
     "C/C++ File.array.c.executor": "Run",
+    "C/C++ File.array_name.c.executor": "Run",
     "C/C++ File.assessment.c.executor": "Run",
     "C/C++ File.constants.c.executor": "Run",
+    "C/C++ File.enmu_color.c.executor": "Run",
+    "C/C++ File.enum.c.executor": "Run",
     "C/C++ File.extern_scmain.c.executor": "Run",
     "C/C++ File.function_main.c.executor": "Run",
     "C/C++ File.main.c (1).executor": "Run",
@@ -96,7 +97,7 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.parameter.c">
+  <component name="RunManager" selected="C/C++ File.enmu_color.c">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -110,20 +111,20 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="array.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="array.c" CONFIG_NAME="array.c">
-      <option name="sourceFile" value="test\array.c" />
+    <configuration name="array_name.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="array_name.c" CONFIG_NAME="array_name.c">
+      <option name="sourceFile" value="test\array_name.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="circulation.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="circulation.c" CONFIG_NAME="circulation.c">
-      <option name="sourceFile" value="test\circulation.c" />
+    <configuration name="enmu_color.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="enmu_color.c" CONFIG_NAME="enmu_color.c">
+      <option name="sourceFile" value="exercise\enmu_color.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="function_main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="function_main.c" CONFIG_NAME="function_main.c">
-      <option name="sourceFile" value="test\function_main.c" />
+    <configuration name="enum.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="enum.c" CONFIG_NAME="enum.c">
+      <option name="sourceFile" value="test\enum.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -135,20 +136,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.array.c" />
+      <item itemvalue="C/C++ File.array_name.c" />
+      <item itemvalue="C/C++ File.enmu_color.c" />
+      <item itemvalue="C/C++ File.enum.c" />
       <item itemvalue="C/C++ File.parameter.c" />
-      <item itemvalue="C/C++ File.function_main.c" />
-      <item itemvalue="C/C++ File.circulation.c" />
       <item itemvalue="CMake Application.C_Study" />
       <item itemvalue="CMake Debug.C_Study" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.enmu_color.c" />
+        <item itemvalue="C/C++ File.enum.c" />
+        <item itemvalue="C/C++ File.array_name.c" />
         <item itemvalue="C/C++ File.parameter.c" />
         <item itemvalue="CMake Debug.C_Study" />
-        <item itemvalue="C/C++ File.array.c" />
-        <item itemvalue="C/C++ File.function_main.c" />
-        <item itemvalue="C/C++ File.circulation.c" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +166,7 @@
       <workItem from="1706532541630" duration="2746000" />
       <workItem from="1706538851794" duration="9844000" />
       <workItem from="1706774149793" duration="16190000" />
-      <workItem from="1707200251901" duration="4656000" />
+      <workItem from="1707200251901" duration="6386000" />
     </task>
     <servers />
   </component>
