@@ -21,9 +21,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/function.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/function_main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/parameter.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,45 +52,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.DateType.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Operation .c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Operator.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.assessment.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.constants.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.extern_scmain.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.main.c (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.main.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.storage_class.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.variate.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.variate_test.c (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.variate_test.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.DateType.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ 文件.main.c.executor&quot;: &quot;Run&quot;,
-    &quot;CMake 应用程序.C_Study.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.DateType.c.executor": "Run",
+    "C/C++ File.Operation .c.executor": "Run",
+    "C/C++ File.Operator.c.executor": "Run",
+    "C/C++ File.assessment.c.executor": "Run",
+    "C/C++ File.constants.c.executor": "Run",
+    "C/C++ File.extern_scmain.c.executor": "Run",
+    "C/C++ File.function_main.c.executor": "Run",
+    "C/C++ File.main.c (1).executor": "Run",
+    "C/C++ File.main.c.executor": "Run",
+    "C/C++ File.parameter.c.executor": "Run",
+    "C/C++ File.storage_class.c.executor": "Run",
+    "C/C++ File.variate.c.executor": "Run",
+    "C/C++ File.variate_test.c (1).executor": "Run",
+    "C/C++ File.variate_test.c.executor": "Run",
+    "C/C++ 文件.DateType.c.executor": "Run",
+    "C/C++ 文件.main.c.executor": "Run",
+    "CMake 应用程序.C_Study.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.function_main.c">
+  <component name="RunManager" selected="C/C++ File.parameter.c">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C_Study" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="C_Study" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Study" RUN_TARGET_NAME="C_Study">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -98,12 +105,6 @@
     </configuration>
     <configuration name="Operation .c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="Operation .c" CONFIG_NAME="Operation .c">
       <option name="sourceFile" value="exercise\Operation .c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Operator.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="Operator.c" CONFIG_NAME="Operator.c">
-      <option name="sourceFile" value="test\Operator.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -126,21 +127,27 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="parameter.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="parameter.c" CONFIG_NAME="parameter.c">
+      <option name="sourceFile" value="test\parameter.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="C/C++ File.parameter.c" />
       <item itemvalue="C/C++ File.function_main.c" />
       <item itemvalue="C/C++ File.Operation .c" />
-      <item itemvalue="C/C++ File.Operator.c" />
       <item itemvalue="C/C++ File.assessment.c" />
       <item itemvalue="C/C++ File.circulation.c" />
       <item itemvalue="CMake Application.C_Study" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.parameter.c" />
         <item itemvalue="C/C++ File.function_main.c" />
         <item itemvalue="C/C++ File.circulation.c" />
         <item itemvalue="C/C++ File.Operation .c" />
         <item itemvalue="C/C++ File.assessment.c" />
-        <item itemvalue="C/C++ File.Operator.c" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +164,7 @@
       <workItem from="1706532541630" duration="2746000" />
       <workItem from="1706538851794" duration="9844000" />
       <workItem from="1706774149793" duration="16190000" />
-      <workItem from="1707200251901" duration="686000" />
+      <workItem from="1707200251901" duration="1681000" />
     </task>
     <servers />
   </component>
