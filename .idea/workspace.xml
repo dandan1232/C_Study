@@ -21,10 +21,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise/int_to_enum.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enmu_color.exe" beforeDir="false" afterPath="$PROJECT_DIR$/enmu_color.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/enmu_color.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/enmu_color.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array.exe" beforeDir="false" afterPath="$PROJECT_DIR$/array.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/array.c" beforeDir="false" afterPath="$PROJECT_DIR$/test/array.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.int_to_enum.c">
+  <component name="RunManager" selected="C/C++ File.array.c">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -108,6 +107,12 @@
     <configuration name="C_Study" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="C_Study" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Study" RUN_TARGET_NAME="C_Study">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="array.c" CONFIG_NAME="array.c">
+      <option name="sourceFile" value="test\array.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="array_name.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="array_name.c" CONFIG_NAME="array_name.c">
@@ -134,27 +139,21 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parameter.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="parameter.c" CONFIG_NAME="parameter.c">
-      <option name="sourceFile" value="test\parameter.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="C/C++ File.array_name.c" />
       <item itemvalue="C/C++ File.enmu_color.c" />
       <item itemvalue="C/C++ File.enum.c" />
       <item itemvalue="C/C++ File.int_to_enum.c" />
-      <item itemvalue="C/C++ File.parameter.c" />
+      <item itemvalue="C/C++ File.array.c" />
       <item itemvalue="CMake Application.C_Study" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.array.c" />
         <item itemvalue="C/C++ File.int_to_enum.c" />
         <item itemvalue="C/C++ File.enmu_color.c" />
         <item itemvalue="C/C++ File.enum.c" />
         <item itemvalue="C/C++ File.array_name.c" />
-        <item itemvalue="C/C++ File.parameter.c" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +170,7 @@
       <workItem from="1706532541630" duration="2746000" />
       <workItem from="1706538851794" duration="9844000" />
       <workItem from="1706774149793" duration="16190000" />
-      <workItem from="1707200251901" duration="6942000" />
+      <workItem from="1707200251901" duration="9087000" />
     </task>
     <servers />
   </component>

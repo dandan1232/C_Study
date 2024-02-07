@@ -12,8 +12,8 @@ int main(){
     int length = sizeof(array)/sizeof(array[0]);
     int *ptr=&array[0];
     int *ptr2=array;
-    printf("%c\n", *ptr);
-    printf("%c\n", *ptr2);
+    printf("%p\n", *ptr);
+    printf("%p\n", *ptr2);
     printf("数组长度:%d\n", length);
     printf("%d\n",sizeof(array[0]));
 
