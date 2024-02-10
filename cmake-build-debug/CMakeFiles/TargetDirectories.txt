@@ -1,2 +1,2 @@
-D:/Study/C_Study/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Study/C_Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Study/C_Study/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Study/C_Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
