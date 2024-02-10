@@ -19,7 +19,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/test/function_point.c" beforeDir="false" afterPath="$PROJECT_DIR$/test/function_point.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/callback_functions.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
     "C/C++ File.array.c.executor": "Run",
     "C/C++ File.array_name.c.executor": "Run",
     "C/C++ File.assessment.c.executor": "Run",
+    "C/C++ File.callback_functions.c.executor": "Run",
     "C/C++ File.constants.c.executor": "Run",
     "C/C++ File.enmu_color.c.executor": "Run",
     "C/C++ File.enum.c.executor": "Run",
@@ -99,7 +101,7 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.function_point.c">
+  <component name="RunManager" selected="C/C++ File.callback_functions.c">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -123,8 +125,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="enmu_color.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="enmu_color.c" CONFIG_NAME="enmu_color.c">
-      <option name="sourceFile" value="exercise\enmu_color.c" />
+    <configuration name="callback_functions.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="callback_functions.c" CONFIG_NAME="callback_functions.c">
+      <option name="sourceFile" value="test\callback_functions.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -166,19 +168,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.callback_functions.c" />
       <item itemvalue="C/C++ File.function_point.c" />
       <item itemvalue="C/C++ File.pointer.c" />
-      <item itemvalue="C/C++ File.enmu_color.c" />
       <item itemvalue="C/C++ File.int_to_enum.c" />
       <item itemvalue="C/C++ File.array.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.callback_functions.c" />
         <item itemvalue="C/C++ File.function_point.c" />
         <item itemvalue="C/C++ File.pointer.c" />
         <item itemvalue="C/C++ File.array.c" />
         <item itemvalue="C/C++ File.int_to_enum.c" />
-        <item itemvalue="C/C++ File.enmu_color.c" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +198,7 @@
       <workItem from="1706538851794" duration="9844000" />
       <workItem from="1706774149793" duration="16190000" />
       <workItem from="1707200251901" duration="10605000" />
-      <workItem from="1707544525251" duration="3313000" />
+      <workItem from="1707544525251" duration="4126000" />
     </task>
     <servers />
   </component>
