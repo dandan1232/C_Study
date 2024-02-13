@@ -19,9 +19,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/struct_pointer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/struct_sizeof.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct_parameter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/struct_parameter.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +76,7 @@
     "C/C++ File.string.c.executor": "Run",
     "C/C++ File.struct_parameter.c.executor": "Run",
     "C/C++ File.struct_pointer.c.executor": "Run",
+    "C/C++ File.struct_sizeof.c.executor": "Run",
     "C/C++ File.structure.c.executor": "Run",
     "C/C++ File.structure_members.c.executor": "Run",
     "C/C++ File.variate.c.executor": "Run",
@@ -107,15 +107,9 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.struct_pointer.c">
+  <component name="RunManager" selected="C/C++ File.struct_sizeof.c">
     <configuration name="array.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="array.c" CONFIG_NAME="array.c">
       <option name="sourceFile" value="test\array.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="string.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="string.c" CONFIG_NAME="string.c">
-      <option name="sourceFile" value="test\string.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -128,6 +122,12 @@
     </configuration>
     <configuration name="struct_pointer.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="struct_pointer.c" CONFIG_NAME="struct_pointer.c">
       <option name="sourceFile" value="test\struct_pointer.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="struct_sizeof.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="struct_sizeof.c" CONFIG_NAME="struct_sizeof.c">
+      <option name="sourceFile" value="test\struct_sizeof.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -147,17 +147,17 @@
     <list>
       <item itemvalue="C/C++ File.struct_parameter.c" />
       <item itemvalue="C/C++ File.struct_pointer.c" />
+      <item itemvalue="C/C++ File.struct_sizeof.c" />
       <item itemvalue="C/C++ File.structure.c" />
       <item itemvalue="C/C++ File.structure_members.c" />
-      <item itemvalue="C/C++ File.string.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.struct_sizeof.c" />
         <item itemvalue="C/C++ File.struct_pointer.c" />
         <item itemvalue="C/C++ File.struct_parameter.c" />
         <item itemvalue="C/C++ File.structure_members.c" />
         <item itemvalue="C/C++ File.structure.c" />
-        <item itemvalue="C/C++ File.string.c" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,7 @@
       <workItem from="1706774149793" duration="16190000" />
       <workItem from="1707200251901" duration="10605000" />
       <workItem from="1707544525251" duration="13859000" />
-      <workItem from="1707805360809" duration="6855000" />
+      <workItem from="1707805360809" duration="8473000" />
     </task>
     <servers />
   </component>
