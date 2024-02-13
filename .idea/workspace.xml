@@ -19,7 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/structure.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/structure_members.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,7 @@
     "C/C++ File.storage_class.c.executor": "Run",
     "C/C++ File.string.c.executor": "Run",
     "C/C++ File.structure.c.executor": "Run",
+    "C/C++ File.structure_members.c.executor": "Run",
     "C/C++ File.variate.c.executor": "Run",
     "C/C++ File.variate_test.c (1).executor": "Run",
     "C/C++ File.variate_test.c.executor": "Run",
@@ -103,7 +104,7 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.structure.c">
+  <component name="RunManager" selected="C/C++ File.structure_members.c">
     <configuration name="array.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="array.c" CONFIG_NAME="array.c">
       <option name="sourceFile" value="test\array.c" />
       <method v="2">
@@ -122,12 +123,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pointer.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="pointer.c" CONFIG_NAME="pointer.c">
-      <option name="sourceFile" value="test\pointer.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="string.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="string.c" CONFIG_NAME="string.c">
       <option name="sourceFile" value="test\string.c" />
       <method v="2">
@@ -140,20 +135,26 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="structure_members.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="structure_members.c" CONFIG_NAME="structure_members.c">
+      <option name="sourceFile" value="test\structure_members.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="C/C++ File.structure.c" />
+      <item itemvalue="C/C++ File.structure_members.c" />
       <item itemvalue="C/C++ File.callback_functions.c" />
       <item itemvalue="C/C++ File.function_point.c" />
-      <item itemvalue="C/C++ File.pointer.c" />
       <item itemvalue="C/C++ File.string.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.structure_members.c" />
         <item itemvalue="C/C++ File.structure.c" />
         <item itemvalue="C/C++ File.string.c" />
         <item itemvalue="C/C++ File.callback_functions.c" />
         <item itemvalue="C/C++ File.function_point.c" />
-        <item itemvalue="C/C++ File.pointer.c" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +173,7 @@
       <workItem from="1706774149793" duration="16190000" />
       <workItem from="1707200251901" duration="10605000" />
       <workItem from="1707544525251" duration="13859000" />
-      <workItem from="1707805360809" duration="1019000" />
+      <workItem from="1707805360809" duration="2002000" />
     </task>
     <servers />
   </component>
