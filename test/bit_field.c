@@ -20,6 +20,12 @@ struct
 {
     unsigned int widthValidated : 1;
     unsigned int heightValidated : 1;
+    unsigned int heightValidated1 : 1;
+    unsigned int heightValidated2 : 1;
+    unsigned int heightValidated3 : 1;
+    unsigned int heightValidated4 : 1;
+    unsigned int heightValidated5 : 1;
+    unsigned int heightValidated6 : 30;
 } status2;
 
 int main( )

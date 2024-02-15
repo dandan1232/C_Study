@@ -19,8 +19,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/bit_field.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bit_field_definandvar.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bit_field.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bit_field.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bit_field.c" beforeDir="false" afterPath="$PROJECT_DIR$/test/bit_field.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +66,7 @@
     "C/C++ File.array_name.c.executor": "Run",
     "C/C++ File.assessment.c.executor": "Run",
     "C/C++ File.bit_field.c.executor": "Run",
+    "C/C++ File.bit_field_definandvar.c.executor": "Run",
     "C/C++ File.callback_functions.c.executor": "Run",
     "C/C++ File.constants.c.executor": "Run",
     "C/C++ File.enmu_color.c.executor": "Run",
@@ -80,6 +86,7 @@
     "C/C++ File.struct_sizeof.c.executor": "Run",
     "C/C++ File.structure.c.executor": "Run",
     "C/C++ File.structure_members.c.executor": "Run",
+    "C/C++ File.test.c.executor": "Run",
     "C/C++ File.union.c.executor": "Run",
     "C/C++ File.union_member.c.executor": "Run",
     "C/C++ File.variate.c.executor": "Run",
@@ -110,21 +117,21 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.bit_field.c">
+  <component name="RunManager" selected="C/C++ File.bit_field_definandvar.c">
     <configuration name="bit_field.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="bit_field.c" CONFIG_NAME="bit_field.c">
       <option name="sourceFile" value="test\bit_field.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="struct_pointer.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="struct_pointer.c" CONFIG_NAME="struct_pointer.c">
-      <option name="sourceFile" value="test\struct_pointer.c" />
+    <configuration name="bit_field_definandvar.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="bit_field_definandvar.c" CONFIG_NAME="bit_field_definandvar.c">
+      <option name="sourceFile" value="test\bit_field_definandvar.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="struct_sizeof.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="struct_sizeof.c" CONFIG_NAME="struct_sizeof.c">
-      <option name="sourceFile" value="test\struct_sizeof.c" />
+    <configuration name="test.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="test.c" CONFIG_NAME="test.c">
+      <option name="sourceFile" value="test\test.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -143,18 +150,18 @@
     </configuration>
     <list>
       <item itemvalue="C/C++ File.bit_field.c" />
+      <item itemvalue="C/C++ File.bit_field_definandvar.c" />
+      <item itemvalue="C/C++ File.test.c" />
       <item itemvalue="C/C++ File.union.c" />
       <item itemvalue="C/C++ File.union_member.c" />
-      <item itemvalue="C/C++ File.struct_pointer.c" />
-      <item itemvalue="C/C++ File.struct_sizeof.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.bit_field_definandvar.c" />
+        <item itemvalue="C/C++ File.test.c" />
         <item itemvalue="C/C++ File.bit_field.c" />
         <item itemvalue="C/C++ File.union_member.c" />
         <item itemvalue="C/C++ File.union.c" />
-        <item itemvalue="C/C++ File.struct_sizeof.c" />
-        <item itemvalue="C/C++ File.struct_pointer.c" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +182,7 @@
       <workItem from="1707544525251" duration="13859000" />
       <workItem from="1707805360809" duration="12221000" />
       <workItem from="1707910019963" duration="2078000" />
-      <workItem from="1707978462295" duration="2074000" />
+      <workItem from="1707978462295" duration="6795000" />
     </task>
     <servers />
   </component>
