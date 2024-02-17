@@ -15,5 +15,5 @@ int main() {
 
     printf("\n键入了：%s %d", str, i);
     printf("\n");
-    return 0;
+    return 0
 }

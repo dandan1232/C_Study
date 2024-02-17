@@ -19,10 +19,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/getpurchar.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/getsputs.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/scanfprintf.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scanfprintf.c" beforeDir="false" afterPath="$PROJECT_DIR$/test/scanfprintf.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +183,7 @@
       <workItem from="1707544525251" duration="13859000" />
       <workItem from="1707805360809" duration="12221000" />
       <workItem from="1707910019963" duration="2078000" />
-      <workItem from="1707978462295" duration="12732000" />
+      <workItem from="1707978462295" duration="18101000" />
     </task>
     <servers />
   </component>
