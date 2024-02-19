@@ -19,7 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/file_read.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/preprocessor.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +79,7 @@
     "C/C++ File.main.c.executor": "Run",
     "C/C++ File.parameter.c.executor": "Run",
     "C/C++ File.pointer.c.executor": "Run",
+    "C/C++ File.preprocessor.c.executor": "Run",
     "C/C++ File.scanfprintf.c.executor": "Run",
     "C/C++ File.storage_class.c.executor": "Run",
     "C/C++ File.string.c.executor": "Run",
@@ -120,7 +121,7 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.file_read.c">
+  <component name="RunManager" selected="C/C++ File.preprocessor.c">
     <configuration name="file_r_w.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="file_r_w.c" CONFIG_NAME="file_r_w.c">
       <option name="sourceFile" value="test\file_r_w.c" />
       <method v="2">
@@ -133,14 +134,14 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getpurchar.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="getpurchar.c" CONFIG_NAME="getpurchar.c">
-      <option name="sourceFile" value="test\getpurchar.c" />
+    <configuration name="getsputs.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="getsputs.c" CONFIG_NAME="getsputs.c">
+      <option name="sourceFile" value="test\getsputs.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getsputs.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="getsputs.c" CONFIG_NAME="getsputs.c">
-      <option name="sourceFile" value="test\getsputs.c" />
+    <configuration name="preprocessor.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="preprocessor.c" CONFIG_NAME="preprocessor.c">
+      <option name="sourceFile" value="test\preprocessor.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -154,17 +155,17 @@
     <list>
       <item itemvalue="C/C++ File.file_r_w.c" />
       <item itemvalue="C/C++ File.file_read.c" />
-      <item itemvalue="C/C++ File.getpurchar.c" />
       <item itemvalue="C/C++ File.getsputs.c" />
+      <item itemvalue="C/C++ File.preprocessor.c" />
       <item itemvalue="C/C++ File.scanfprintf.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.preprocessor.c" />
         <item itemvalue="C/C++ File.file_read.c" />
         <item itemvalue="C/C++ File.file_r_w.c" />
         <item itemvalue="C/C++ File.scanfprintf.c" />
         <item itemvalue="C/C++ File.getsputs.c" />
-        <item itemvalue="C/C++ File.getpurchar.c" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +186,7 @@
       <workItem from="1707544525251" duration="13859000" />
       <workItem from="1707805360809" duration="12221000" />
       <workItem from="1707910019963" duration="2078000" />
-      <workItem from="1707978462295" duration="23798000" />
+      <workItem from="1707978462295" duration="25202000" />
     </task>
     <servers />
   </component>
