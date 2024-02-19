@@ -122,7 +122,7 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.errorsorting.c">
+  <component name="RunManager" selected="C/C++ File.jiecheng.c">
     <configuration name="change.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="change.c" CONFIG_NAME="change.c">
       <option name="sourceFile" value="test\change.c" />
       <method v="2">
@@ -135,14 +135,14 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="file_r_w.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="file_r_w.c" CONFIG_NAME="file_r_w.c">
-      <option name="sourceFile" value="test\file_r_w.c" />
+    <configuration name="file_read.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="file_read.c" CONFIG_NAME="file_read.c">
+      <option name="sourceFile" value="test\file_read.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="file_read.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="file_read.c" CONFIG_NAME="file_read.c">
-      <option name="sourceFile" value="test\file_read.c" />
+    <configuration name="jiecheng.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="jiecheng.c" CONFIG_NAME="jiecheng.c">
+      <option name="sourceFile" value="exercise\jiecheng.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -156,17 +156,17 @@
     <list>
       <item itemvalue="C/C++ File.change.c" />
       <item itemvalue="C/C++ File.errorsorting.c" />
-      <item itemvalue="C/C++ File.file_r_w.c" />
       <item itemvalue="C/C++ File.file_read.c" />
+      <item itemvalue="C/C++ File.jiecheng.c" />
       <item itemvalue="C/C++ File.preprocessor.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.jiecheng.c" />
         <item itemvalue="C/C++ File.errorsorting.c" />
         <item itemvalue="C/C++ File.change.c" />
         <item itemvalue="C/C++ File.preprocessor.c" />
         <item itemvalue="C/C++ File.file_read.c" />
-        <item itemvalue="C/C++ File.file_r_w.c" />
       </list>
     </recent_temporary>
   </component>

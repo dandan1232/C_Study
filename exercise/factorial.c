@@ -8,8 +8,7 @@
 
 #include <stdio.h>
 
-double
-(unsigned int i) {
+double factorial(unsigned int i) {
     if (i <= 1) {
         return 1;
     }
