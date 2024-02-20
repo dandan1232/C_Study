@@ -19,7 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/testsourcetree.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/variable_element.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,13 +126,7 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.fibonaci.c">
-    <configuration name="change.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="change.c" CONFIG_NAME="change.c">
-      <option name="sourceFile" value="test\change.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.variable_element.c">
     <configuration name="errorsorting.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="errorsorting.c" CONFIG_NAME="errorsorting.c">
       <option name="sourceFile" value="test\errorsorting.c" />
       <method v="2">
@@ -157,20 +151,26 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="variable_element.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="variable_element.c" CONFIG_NAME="variable_element.c">
+      <option name="sourceFile" value="test\variable_element.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="C/C++ File.change.c" />
       <item itemvalue="C/C++ File.errorsorting.c" />
       <item itemvalue="C/C++ File.fibonaci.c" />
       <item itemvalue="C/C++ File.jiecheng.c" />
       <item itemvalue="C/C++ File.jiecheng.c (1)" />
+      <item itemvalue="C/C++ File.variable_element.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.variable_element.c" />
         <item itemvalue="C/C++ File.fibonaci.c" />
         <item itemvalue="C/C++ File.jiecheng.c (1)" />
         <item itemvalue="C/C++ File.jiecheng.c" />
         <item itemvalue="C/C++ File.errorsorting.c" />
-        <item itemvalue="C/C++ File.change.c" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +191,7 @@
       <workItem from="1707544525251" duration="13859000" />
       <workItem from="1707805360809" duration="12221000" />
       <workItem from="1707910019963" duration="2078000" />
-      <workItem from="1707978462295" duration="39130000" />
+      <workItem from="1707978462295" duration="41093000" />
     </task>
     <servers />
   </component>
