@@ -23,6 +23,9 @@ double average(int num, ...) {
     va_end(valist);
 
     return sum / num;
+
+
+
 }
 
 int main() {

@@ -19,8 +19,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cdb5e7-792b-4976-b320-fb43216c106f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/test/variable_element.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/allocates_memory.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/change.exe" beforeDir="false" afterPath="$PROJECT_DIR$/change.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-02b121444418273233e2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-02-10T05-55-37-0481.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bit_field.c" beforeDir="false" afterPath="$PROJECT_DIR$/test/bit_field.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/variable_element.c" beforeDir="false" afterPath="$PROJECT_DIR$/test/variable_element.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +69,7 @@
     "C/C++ File.DateType.c.executor": "Run",
     "C/C++ File.Operation .c.executor": "Run",
     "C/C++ File.Operator.c.executor": "Run",
+    "C/C++ File.allocates_memory.c.executor": "Run",
     "C/C++ File.array.c.executor": "Run",
     "C/C++ File.array_name.c.executor": "Run",
     "C/C++ File.assessment.c.executor": "Run",
@@ -98,6 +111,7 @@
     "C/C++ File.typeof.c.executor": "Run",
     "C/C++ File.union.c.executor": "Run",
     "C/C++ File.union_member.c.executor": "Run",
+    "C/C++ File.variable_element.c.executor": "Run",
     "C/C++ File.variate.c.executor": "Run",
     "C/C++ File.variate_test.c (1).executor": "Run",
     "C/C++ File.variate_test.c.executor": "Run",
@@ -126,9 +140,15 @@
       <recent name="D:\Study\C_Study\test" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.variable_element.c">
-    <configuration name="errorsorting.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="errorsorting.c" CONFIG_NAME="errorsorting.c">
-      <option name="sourceFile" value="test\errorsorting.c" />
+  <component name="RunManager" selected="C/C++ File.allocates_memory.c">
+    <configuration name="allocates_memory.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="allocates_memory.c" CONFIG_NAME="allocates_memory.c">
+      <option name="sourceFile" value="test\allocates_memory.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="change.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="change.c" CONFIG_NAME="change.c">
+      <option name="sourceFile" value="test\change.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -145,12 +165,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jiecheng.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="jiecheng.c" CONFIG_NAME="jiecheng.c">
-      <option name="sourceFile" value="exercise\jiecheng.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="variable_element.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="variable_element.c" CONFIG_NAME="variable_element.c">
       <option name="sourceFile" value="test\variable_element.c" />
       <method v="2">
@@ -158,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.errorsorting.c" />
+      <item itemvalue="C/C++ File.allocates_memory.c" />
+      <item itemvalue="C/C++ File.change.c" />
       <item itemvalue="C/C++ File.fibonaci.c" />
-      <item itemvalue="C/C++ File.jiecheng.c" />
       <item itemvalue="C/C++ File.jiecheng.c (1)" />
       <item itemvalue="C/C++ File.variable_element.c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.allocates_memory.c" />
+        <item itemvalue="C/C++ File.change.c" />
         <item itemvalue="C/C++ File.variable_element.c" />
         <item itemvalue="C/C++ File.fibonaci.c" />
         <item itemvalue="C/C++ File.jiecheng.c (1)" />
-        <item itemvalue="C/C++ File.jiecheng.c" />
-        <item itemvalue="C/C++ File.errorsorting.c" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +205,14 @@
       <workItem from="1707544525251" duration="13859000" />
       <workItem from="1707805360809" duration="12221000" />
       <workItem from="1707910019963" duration="2078000" />
-      <workItem from="1707978462295" duration="41093000" />
+      <workItem from="1707978462295" duration="45093000" />
+      <workItem from="1708593741896" duration="1271000" />
+      <workItem from="1708671009755" duration="344000" />
+      <workItem from="1708671569724" duration="115000" />
+      <workItem from="1708671699285" duration="17000" />
+      <workItem from="1708671845297" duration="142000" />
+      <workItem from="1708692198698" duration="1694000" />
+      <workItem from="1708932381625" duration="3033000" />
     </task>
     <servers />
   </component>

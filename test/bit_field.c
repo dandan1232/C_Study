@@ -15,6 +15,8 @@ struct
     unsigned int heightValidated;
 } status1;
 
+
+
 /* 定义位域结构 */
 struct
 {
