@@ -35,3 +35,7 @@ cmd  gcc 多个文件名 进行编译 \
 ###C命令行参数\
 command_line_parameter.c 运行结果
 ![img_5.png](img_5.png)
+
+
+C语言实例
+https://www.runoob.com/cprogramming/c-examples.html
