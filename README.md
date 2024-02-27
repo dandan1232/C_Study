@@ -30,3 +30,8 @@ cmd  gcc 多个文件名 进行编译 \
 
 
 ![img_4.png](img_4.png)
+
+
+###C命令行参数\
+command_line_parameter.c 运行结果
+![img_5.png](img_5.png)
